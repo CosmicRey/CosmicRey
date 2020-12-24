@@ -16,6 +16,12 @@ I'm a Graphics engineer working on Minecraft as a codeveloper at SkyBox Labs. I 
 <br/>
 <br/>
 
+### Graphics libraries used
+* DirectX 11
+* GNM
+* DirectX 12
+* Vulkan
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 	<img align="left" alt="CosmicRey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CosmicRey&count_private=true&show_icons=true&theme=merko" />
