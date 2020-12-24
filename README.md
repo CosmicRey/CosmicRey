@@ -14,5 +14,5 @@ I'm a Graphics engineer working on Minecraft as a codeveloper at SkyBox Labs. I 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-![Rey's Stats](https://github-readme-stats.vercel.app/api?username=CosmicRey&count_private=true&show_icons=true&theme=merko)
+	<img align="left" alt="CosmicRey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CosmicRey&count_private=true&show_icons=true&theme=merko" />
 </details>
