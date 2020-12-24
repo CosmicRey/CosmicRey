@@ -12,4 +12,7 @@ I'm a Graphics engineer working on Minecraft as a codeveloper at SkyBox Labs. I 
 <br/>
 <br/>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 ![Rey's Stats](https://github-readme-stats.vercel.app/api?username=CosmicRey&count_private=true&show_icons=true&theme=merko)
+</details>
