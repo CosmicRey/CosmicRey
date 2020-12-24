@@ -1,6 +1,8 @@
 # Rey Brassard
-### About Me:
-I'm a Graphics engineer working on Minecraft as a codeveloper at SkyBox Labs. I mainly study modern rendering techniques, engine architecture, and have a fascination with machine learning.
+### I'm a Graphics Engineer:
+* :pick: Currently working on Minecraft as a codeveloper at SkyBox Labs.
+* :books: I study modern rendering techniques, engine architecture, and machine learning.
+* :evergreen_tree: I have a love for the outdoors, and spend a lot of time hiking :walking_man:, swimming :swimming_man:, and camping :tent:
 
 ### Languages and Tools:
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/CosmicRey/CosmicRey/main/.github/images/vscode.png" />
