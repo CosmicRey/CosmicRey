@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-### Graphics libraries used
+### Graphics Libraries Used:
 * DirectX 11
 * GNM
 * DirectX 12
